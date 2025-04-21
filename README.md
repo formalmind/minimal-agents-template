@@ -1,7 +1,5 @@
 # Minimal Local Agent
 
-Running a local agent.
-
 My setup:
 
 - 2017 MacBook Pro 2.9 GHz Quad-Core Intel Core i7
