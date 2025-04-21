@@ -31,8 +31,16 @@ ollama serve
 Setup virtual environment
 
 ```sh
+# clone this repo
+git clone https://github.com/mmsaki/agents.git
+
+# enter project directory
+cd agents
+
+# setup local environment
 uv venv
 
+# activate local environment
 source .venv/bin/activate
 ```
 
