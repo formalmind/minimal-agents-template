@@ -46,7 +46,7 @@ source .venv/bin/activate
 
 ## Initialize model
 
-Initialize model with `LiteLLM` served by ollama on localhost
+Initialize model with `LiteLLM` in [./src/agents/\_\_init\_\_.py](./src/agents/__init__.py)
 
 ```py
 from smolagents import LiteLLMModel
